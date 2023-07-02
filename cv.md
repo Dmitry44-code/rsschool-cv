@@ -19,7 +19,6 @@ function disemvowel(str) {
 University: Kostroma State University
 ## Experience
 *
-*
 ## Language
 * Russian - native speaker
 * English - A2.
